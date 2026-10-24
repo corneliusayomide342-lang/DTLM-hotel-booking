@@ -157,7 +157,7 @@ dtlm-hotel-booking-powerbi/
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
 2. Clone or download this repository:
    ```bash
-   git clone https://github.com/corneliusdamilola64-cell/dtlm-hotel-booking-powerbi.git
+   git clone https://github.com/corneliusayomide342-lang/DTLM-hotel-booking.git
    ```
 3. Open `DHG_dashboard.pbix` in Power BI Desktop.
 4. If Power BI asks for the data source, click **Transform data → Data source settings → Change Source** and point it to `data/DTLM_Hotel_Booking_Data.xlsx`.
