@@ -3,7 +3,7 @@
 An interactive three-page Power BI dashboard analysing **119K bookings and 29.60M in revenue** for DTLM Hostels (Dataleum Hotel Group), covering booking patterns, cancellations, revenue drivers and operations.
 
 **Tools:** Power BI · DAX · Power Query
-**Author:** Cornelius Fiyinfoluwa · [GitHub](https://github.com/corneliusdamilola64-cell)
+**Author:** Cornelius Fiyinfoluwa · [GitHub](https://github.com/corneliusayomide342-lang)
 
 ---
 
