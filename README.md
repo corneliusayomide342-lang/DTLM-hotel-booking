@@ -173,4 +173,4 @@ dtlm-hotel-booking-powerbi/
 
 Data analyst with an industrial chemistry background and three years of teaching experience, working with Excel, SQL and Power BI.
 
-- GitHub: [@corneliusdamilola64-cell](https://github.com/corneliusdamilola64-cell)
+- GitHub: [@corneliusdamilola64-cell](https://github.com/corneliusayomide342-lang)
