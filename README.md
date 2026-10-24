@@ -40,12 +40,12 @@ The report has three role-based pages, all with slicers for **Booking Date, Hote
 Booking trend, revenue trend, cancellation rate by country, top 10 countries by guest volume, revenue by customer type, lead time and ADR by channel.
 
 ### 2. Revenue Manager: revenue and commercial performance
-![Revenue Manager dashboard](images/revenue-manager-dashboard.jpg)
+![Revenue Manager dashboard](image/operations-manager-dashboard.jpg.png)
 
 Bookings and ADR by distribution channel, revenue and cancellation rate by lead time, online vs offline travel agents, top 10 countries by revenue, ADR matrix by customer type and channel.
 
 ### 3. Operations Manager: operational performance
-![Operations Manager dashboard](images/operations-manager-dashboard.jpg)
+![Operations Manager dashboard](image/operations-manager-dashboard.jpg.png)
 
 Expected check-outs and average length of stay, cancellation revenue loss by customer type and channel, key influencers of cancellation, cancellation by deposit type, corporate bookings and ADR trend.
 
