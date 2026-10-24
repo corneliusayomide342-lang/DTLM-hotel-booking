@@ -35,7 +35,7 @@ Booking date range in the report: 24 Jun 2013 to 31 Aug 2017.
 The report has three role-based pages, all with slicers for **Booking Date, Hotel and Customer Type**.
 
 ### 1. CEO / Executive: performance overview
-![CEO dashboard](images/ceo-executive-dashboard.jpg)
+![CEO dashboard](image/ceo-executive-dashboard.jpg.png)
 
 Booking trend, revenue trend, cancellation rate by country, top 10 countries by guest volume, revenue by customer type, lead time and ADR by channel.
 
