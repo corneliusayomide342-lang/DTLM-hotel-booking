@@ -160,7 +160,7 @@ dtlm-hotel-booking-powerbi/
    https://github.com/corneliusayomide342-lang/DTLM-hotel-booking.git
    ```
 3. Open `DHG_dashboard.pbix` in Power BI Desktop.
-4. If Power BI asks for the data source, click **Transform data → Data source settings → Change Source** and point it to `data/DTLM_Hotel_Booking_Data.xlsx`.
+4. If Power BI asks for the data source, click **Transform data → Data source settings → Change Source** and point it to `DTLM_Hotel_Booking_Data.xlsx`.
 
 ## 📖 Usage
 
